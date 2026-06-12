@@ -94,6 +94,7 @@ Active prediction market platforms with programmatic access.
 - [py-clob-client](https://github.com/Polymarket/py-clob-client) — Official Python client for the CLOB.
 - [clob-client](https://github.com/Polymarket/clob-client) — Official TypeScript client.
 - [polymarket-rs](https://github.com/Polymarket/polymarket-rs) — Rust SDK.
+- [OrcaLayer API](https://orcalayer.com/docs) — Whale analytics REST + SSE API for Polymarket: farmer-filtered smart wallet stats, NegRisk-corrected win rates, live trades stream. Public endpoints free, full access on premium.
 
 ### Metaculus
 
