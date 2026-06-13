@@ -119,6 +119,7 @@ Connect LLMs to prediction market data via the Model Context Protocol.
 - [fred-mcp-server](https://github.com/kablewy/fred-mcp-server) — FRED economic data for Claude/Cursor.
 - [mcp-fredapi](https://github.com/Jaldekoa/mcp-fredapi) — FRED API with series search and category browsing.
 - [imf-data-mcp](https://github.com/c-cf/imf-data-mcp) — IMF economic data via SDMX 3.0 API.
+- [orcalayer-mcp](https://github.com/orcalayer/orcalayer-mcp) — 5 tools for Polymarket whale and market analytics: NegRisk-corrected, farmer-filtered leaderboards, wallet performance, smart-money consensus per market, and a live whale-trade feed. Public tools keyless; premium feed via API key.
 
 ## CLI Tools
 
